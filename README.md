@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# Predictions using Machine Learning
 This repositorie contains two projects that uses different models to classify and use regression on two datasets respectively.
 
 ## Description
